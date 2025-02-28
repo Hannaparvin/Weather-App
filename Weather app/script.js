@@ -1,6 +1,6 @@
 // Take the api from open weather map website.
 
-const api="67a74a0acdc00e172ae8d389b09013ff";      //in this use your api from the website
+const api="";      //in this use your api from the website
 const apiUrl="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 const search = document.querySelector(".search input");
 const btn = document.querySelector(".search button");
